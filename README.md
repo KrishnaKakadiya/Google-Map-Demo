@@ -6,3 +6,8 @@ The Google Maps App helps us to search for a location and indicate it on the map
 ![Default camera view and custom marker image](https://github.com/KrishnaKakadiya/Google-Map-Demo/blob/master/DefaultCameraView.png)
 
 In addition, depicted a star shaped polygon on the searched location.
+
+![Search Location with custom marker image and star shaped polygon](https://github.com/KrishnaKakadiya/Google-Map-Demo/blob/master/SearchLocation.png)
+
+
+![Search Location with custom marker image and star shaped polygon](https://github.com/KrishnaKakadiya/Google-Map-Demo/blob/master/StarShapedPolygon.png)
